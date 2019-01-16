@@ -1,1 +1,1 @@
-# ENSE 471 UI Project
+Used for our documentation of the project
