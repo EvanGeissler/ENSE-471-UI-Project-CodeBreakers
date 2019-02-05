@@ -7,7 +7,12 @@
 
 # CodeBreakers
 **Authors** Ali, Evan, Shayan
-Quick Access:
+<br/>
+
+Story Board updates can be found under issues and milestones
+<br/>
+
+**Quick Access:**
 * [Documentation](./Documentation/)
 * [Milestone 1](./Milestone%201)
 * [Milestone 2](./Milestone%202)
