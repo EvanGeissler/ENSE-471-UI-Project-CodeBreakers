@@ -6,7 +6,7 @@ Each Milestone outline will be added to outline the labs.<p/>
 **Lab 1.1 Prep & Analysis Breakdown:** <br/>
     1) University of Saskatchewan -> Evan <br/>
     2) University of Regina -> Shayan <br/>
-    3) ?? -> Ali <br/><br/>
+    3) Universtiy of Victoria -> Ali <br/><br/>
 
 **Lab 1.2 Target Customer(s) & Observe:** <br/>
 **Target Groups:**<br/>
