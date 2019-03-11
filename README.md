@@ -23,7 +23,7 @@ ___Milestone 1 Labs___
 * [Lab 1.2 Customer(s) & Observe](./Documentation_&_Labs/Milestone%201%20Labs/Lab%201.2%20Target%20Customer(s)%20&%20Observe)
 * [Lab 1.3 Frame](./Documentation_&_Labs/Milestone%201%20Labs/Lab%201.3%20Frame)
 
-___Milestone 2 Labs (No links yet)___
+___Milestone 2 Labs___
 * [Lab 2.1](./Documentation_&_Labs/Milestone%202%20Labs/Lab%202.1%20Brainstorm_1)
 * [Lab 2.2](./Documentation_&_Labs/Milestone%202%20Labs/Lab%202.2%20Evaluate)
 * [Lab 2.3](./Documentation_&_Labs/Milestone%202%20Labs/Lab%202.3%20Brainstorm_2)
