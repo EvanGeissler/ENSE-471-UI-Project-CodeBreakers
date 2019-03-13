@@ -24,9 +24,9 @@ ___Milestone 1 Labs___
 * [Lab 1.3 Frame](./Documentation_&_Labs/Milestone%201%20Labs/Lab%201.3%20Frame)
 
 ___Milestone 2 Labs___
-* [Lab 2.1](./Documentation_&_Labs/Milestone%202%20Labs/Lab%202.1%20Brainstorm_1)
-* [Lab 2.2](./Documentation_&_Labs/Milestone%202%20Labs/Lab%202.2%20Evaluate)
-* [Lab 2.3](./Documentation_&_Labs/Milestone%202%20Labs/Lab%202.3%20Brainstorm_2)
+* [Lab 2.1 Brainstorm #1](./Documentation_&_Labs/Milestone%202%20Labs/Lab%202.1%20Brainstorm_1)
+* [Lab 2.2 Evaluate](./Documentation_&_Labs/Milestone%202%20Labs/Lab%202.2%20Evaluate)
+* [Lab 2.3 Brainstorm #2](./Documentation_&_Labs/Milestone%202%20Labs/Lab%202.3%20Brainstorm_2)
 
 ___Milestone 3 Labs (No links yet)___
 * [Lab 3.1]
